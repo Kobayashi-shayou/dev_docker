@@ -1,4 +1,4 @@
-FROM php:7-fpm
+FROM php:8.1-fpm
 
 # ユーザーを作成
 ARG UID=1000
